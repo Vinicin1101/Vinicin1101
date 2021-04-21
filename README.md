@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vinicin1101
-- 👀 I’m interested in CSS, JS and Frameworks...
+- 👀 I’m interested any technology.
 - 🌱 I’m currently learning Pyhton, Java and HTML.
 - 📫 Reach me email > viniciusserafim45@gmail.com
 
