@@ -1,13 +1,13 @@
 # Portugues
 - 👋 Olá, sou @ Vinicin1101 (Vinicius Serafim)
 - 👀 Estou interessado em qualquer tecnologia.
-- 🌱 Atualmente, estou aprendendo Java, HTML, CSS, SQL e JS.
+- 🌱 Atualmente, estou aprendendo Java, HTML, CSS e JS.
 - 📫 Fale comigo e-mail> vserafim_o@outlook.com
 
 # English
 - 👋 Hi, I’m @Vinicin1101 (Vinicius Serafim)
 - 👀 I’m interested any technology.
-- 🌱 I’m currently learning Java, HTML, CSS, SQL and JS.
+- 🌱 I’m currently learning Java, HTML, CSS and JS.
 - 📫 Reach me email > vserafim_o@outlook.com
 
 
