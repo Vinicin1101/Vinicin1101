@@ -1,15 +1,12 @@
 Opa 👌
 
-<div style="display: flex;
-    flex-direction: row;
-    align-content: center;
-    justify-content: space-between;
-    align-items: center;">
+<div style="display: flex; flex-direction: row; align-content: center; justify-content; align-items: center; gap: 25px" align="center">
   
-  [![Vinicin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Vinicin1101&show_icons=true&theme=slateorange&hide_border&count_private=true#gh-dark-mode-only)](https://github.com/Vinicin1101)
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinicin1101&show_icons=true&theme=slateorange&icon_color=fcd554&title_color=fea524&border_color=fea524&count_private=true#gh-dark-mode-only">
   
-  [![Vinicin's Github Spotify-recently](https://spotify-recently-played-readme.vercel.app/api?user=31trgxuzmpr7xzwzqr2xgjyuiype&unique={true}&count=1)](https://github.com/Vinicin1101)
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31trgxuzmpr7xzwzqr2xgjyuiype&unique={true}&count=1">
 </div>
+
 
 
 <!---
