@@ -4,7 +4,9 @@ Opa 👌
   
   <img src="https://github-readme-stats.vercel.app/api?username=Vinicin1101&show_icons=true&theme=slateorange&icon_color=fcd554&title_color=fea524&border_color=fea524&count_private=true#gh-dark-mode-only">
   
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31trgxuzmpr7xzwzqr2xgjyuiype&unique={true}&count=1">
+  
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31trgxuzmpr7xzwzqr2xgjyuiype&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=fea524&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31trgxuzmpr7xzwzqr2xgjyuiype&redirect=true)
 </div>
 
 
