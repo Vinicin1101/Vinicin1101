@@ -2,7 +2,9 @@ Opa 👌
 
 <div style="display: flex; flex-direction: row; align-content: center; justify-content; align-items: center; gap: 25px" align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinicin1101&show_icons=true&theme=slateorange&icon_color=EA50F4&title_color=DC62E4&border_color=DC62E4&count_private=true#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinicin1101&show_icons=true&theme=slateorange&icon_color=F7A9FC&title_color=DC62E4&border_color=DC62E4&count_private=true#gh-dark-mode-only">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Vinicin1101&theme=buefy-dark&locale=pt_BR&background=36393f&border=DC62E4&stroke=FF45DD&fire=FF45DD&ring=DC62E4&sideLabels=FFF&sideNums=F7A9FC&dates=36393f&currStreakLabel=FFF&currStreakNum=FF00B6)](https://git.io/streak-stats)
   
   
   
