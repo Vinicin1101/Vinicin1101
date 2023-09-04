@@ -1,7 +1,7 @@
 <h3> ⚡️ Sobre mim ⚡️ </h3>
 <p>
  🧑🏻‍🦱 Opa, eu sou o Vinícius. <br/>
- 🌎 Sou de Bragança Paulista, São Paulo - Brasil. <br/>
+ 🌎 Sou de São Paulo - Brasil. <br/>
  💻 Desenvolvedor Web FullStack. <br/>
  👨🏻‍🚀 Curioso <br/>
   
