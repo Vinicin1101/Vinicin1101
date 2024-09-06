@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=Knock,+knock;Wake+up,+Vinicin...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=Knock,+knock;Shhh...;+they're+listening)](https://git.io/typing-svg)
 <br/>
 🌎 São Paulo - Brasil. <br/>
-💻 Desenvolvedor Web FullStack. <br/>
 🧑‍💻 CyberSecurity - FIAP <br/>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicin1101&show_icons=true&theme=chartreuse-dark&icon_color=00FF00&title_color=00ff00&border_color=00ff00&bg_color=01040900&count_private=false#gh-dark-mode-only)](https://www.vinicin.host)
