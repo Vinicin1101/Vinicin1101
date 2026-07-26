@@ -28,4 +28,4 @@ $ ./display_system.sh --basic
 ```
 
 ---
-*Projects: [Blackout (Password Manager)](https://github.com/Vinicin1101/blackout) | [Kovacs](https://github.com/Vinicin1101/kovacs)*
+*Projects: [Blackout (Password Manager)](https://github.com/omifares/blackout) | [Kovacs](https://github.com/omifares/kovacs) | [OpenWRT Pusher](https://github.com/omifares/openwrt-pusher)*
